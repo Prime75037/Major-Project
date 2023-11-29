@@ -60,17 +60,28 @@
 }
 .forget{
     position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     top: 66vh;
-    left: 330%;
+    left: 490%;
+    border: solid 4px black;
+    background-color: black;
 }
 .forget a{
     text-decoration: none;
-    color: rgb(71, 71, 71);
+    color: rgb(255, 255, 255);
     font-family: poppins;
     font-size: larger;
+    font-weight: 700;
 }
 .forget a:active{
     color: black;
+}
+.forget:active{
+    color: black;
+    background-color: white;
+    border: solid 4px white;
 }
 
 /* Begin the editing of right half of the login page from here.*/

@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="w++++.png" type="image/x-icon">
+    <link rel="stylesheet" href="Major-Project.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@600&family=REM&display=swap"  rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400&family=REM&display=swap"  rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@900&family=REM&display=swap"  rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@700&family=REM&display=swap"  rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400&family=REM&display=swap"  rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+      </style>
+    <title>Welcome to REPRP</title>
+</head>
+<body>
+    <header>
+        <nav class="navigation-bar">
+           <div class="navigation-bar-under">
+            <img src="w++++.png" alt="">
+            <ul>
+                <li><a href="">Services</a></li>
+                <li><a href="">About Us</a></li>
+                <li><a href="login-major.html">Login</a></li>
+                <li><a href="">Register</a></li>
+            </ul>
+           </div>
+        </nav>
+    </header>
+
+    <main>
+
+        <div class="circles">
+            <div class="circle-1"></div>
+            <div class="circle-2"></div>
+            <div class="circle-3"></div>
+        </div>
+
+        <div class="welcome-plate-container">
+
+            <div class="welcome-plate-U1">
+                
+                <div class="welcome-plate-U1-img image-1">
+                    <img class="h1" src="h1.jpg" alt="">
+                    <img class="h2" src="h2.jpg" alt="">
+                </div>
+                
+                <div class="welcome-plate-U1-img image-2">
+                    <img class="h3" src="h3.jpg" alt="">
+                    <img class="h4" src="h4.jpg" alt="">
+                </div>
+
+                <div class="welcome-plate-U1-img image-3">
+                    <img class="h5" src="h5.jpg" alt="">
+                    <img class="h6" src="h6.jpg" alt="">
+                </div>
+
+            </div>
+            <div class="welcome-cover"></div>
+
+            <div class="welcome-text">
+                <h1>WELCOME</h1>
+                <p>Your Dream</p>
+                <span>We Realize</span>
+                <div class="btn-welcome">
+                    <a href="#">Buy Now</a>
+                </div>
+            </div>
+        </div>
+
+        </div>
+        <br>
+        <br>
+        <br>
+        <div class="cards-container">
+
+            <div class="card">
+                <img src="https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_640.jpg" alt="">
+                <h2>HOUSE</h2>
+                <p>Starting INR <br> 10 LACS</p>
+                <a href="#">BUY NOW</a>
+            </div>
+            <div class="card">
+                <img src="https://images.unsplash.com/photo-1484154218962-a197022b5858?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTd8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=400&q=60" alt="">
+                <h2>RENT</h2>
+                <p>Starting INR <br> 8,000/-</p>
+                <a href="#">BUY NOW</a>
+            </div>
+            <div class="card">
+                <img src="https://img.freepik.com/free-photo/beautiful-landscape-with-tall-grass_23-2149721825.jpg?w=1060&t=st=1691524534~exp=1691525134~hmac=3e825b2327a62eb1f982ca7c183620369360907586005ea6cfdd989ef8f731df" alt="">
+                <h2>PLOTS</h2>
+                <p>Starting INR <br> 40 LACS/ACR </p>
+                <a href="#">BUY NOW</a>
+            </div>
+        </div>
+
+
+        <div class="circles-2">
+            <div class="circle-1"></div>
+            <div class="circle-2"></div>
+            <div class="circle-3"></div>
+        </div>
+        <div class="circles-3">
+            <div class="circle-1"></div>
+            <div class="circle-2"></div>
+            <div class="circle-3"></div>
+        </div>
+
+        <div class="four-block-container">
+
+            <div class="four-block-pair">
+                <img src="https://plus.unsplash.com/premium_photo-1661767467261-4a4bed92a507?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjV8fGJyYWluc3Rvcm1pbmd8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=400&q=60" alt="">
+                
+                <div class="four-written-1">
+                    <h2 style="font-size: xx-large; " >ABOUT US</h2> <br>
+                <p style="color: #639088;">We are passionate about revolutionizing the way you explore and connect. Our mission is to provide you with a seamless and user-friendly platform that empowers you to find your dream home or investment property with ease.</p>
+                </div>
+            </div>
+            
+            <div class="four-block-pair">
+                <div class="four-written-2">
+                    <h2 class="four-second-header" style="text-align: center;">BUY ONLINE <br> NOW & GET <br> 20% OFF!</h2>
+                    <br><br>
+                    <a href="#">BUY NOW</a>
+                </div>
+                <img src="https://plus.unsplash.com/premium_photo-1661767467261-4a4bed92a507?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjV8fGJyYWluc3Rvcm1pbmd8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=400&q=60" alt="">
+            </div>
+        </div>
+
+        <div class="welcome-plate-container">
+            
+            <div class="welcome-plate-U1">
+                
+                <div class="welcome-plate-U1-img image-1">
+                    <img class="h1" src="h1.jpg" alt="">
+                    <img class="h2" src="h2.jpg" alt="">
+                </div>
+                
+                <div class="welcome-plate-U1-img image-2">
+                    <img class="h3" src="h3.jpg" alt="">
+                    <img class="h4" src="h4.jpg" alt="">
+                </div>
+                
+                <div class="welcome-plate-U1-img image-3">
+                    <img class="h5" src="h5.jpg" alt="">
+                    <img class="h6" src="h6.jpg" alt="">
+                </div>
+
+            </div>
+                <div class="background-D1-cover"></div>
+            <div class="welcome-cover cover-2"></div>
+
+            <div class="To-go-form">
+                <h1>FOR SPECIAL REQUESTS</h1>
+                <form action="">
+                    <label for="">Name</label>
+                    <input type="text" name="" placeholder="Type your name....." id=""> 
+
+                    <label for="email">Email</label>
+                    <input type="email" name="" placeholder="Type your email....." id="">
+
+                    <label for="Phone">Phone</label>
+                    <input type="number" name="" placeholder="Type your Phone Number....." id="">
+                    
+                    <label for="Message">Write your Message</label>
+                    <textarea required name="" id="msg-box" cols="30" rows="10" placeholder="Write here..............."></textarea>
+
+                    <button type="submit"> SUBMIT</button>
+                </form>
+
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+
+        <div class="foot-container">
+
+            <div class="foot-images" >
+                <img class="img--1" src="footer1.png" alt="">
+                <img class="img--2" src="footer2.jpg" alt="">
+
+                <div class="foot-text">
+                    <div class="foot-text-1">
+                        <h2>OPENING HOURS</h2>
+                        <p>Mon - Fri: 7:00am - 10:00pm</p>
+                        <p>Saturday : 7:00am - 10:00pm</p>
+                        <p>Sunday : 7:00am - 10:00pm</p>
+                    </div>
+                    <div class="foot-text-2">
+                        <h2>SUBSCRIBE</h2>
+                        <label for="">Enter your email here*</label><br>
+                        <input type="email">
+                        <button>SUBSCRIBE</button>
+
+                    </div>
+                </div>
+                
+                <div class="foot-icns">
+                    <i class="fa-brands fa-facebook fa-2xl " style="color: #639088;"></i>
+                    <i class="fa-brands fa-linkedin fa-2xl " style="color: #639088;"></i>
+                    <i class="fa-brands fa-pinterest fa-2xl" style="color: #639088;"></i>
+                </div>
+            </div>
+
+        </div>
+
+
+    </footer>
+</body>
+</html>
